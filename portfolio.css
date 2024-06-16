@@ -90,7 +90,7 @@ nav ul li a:hover:before {
 .section {
     padding: 100px 20px;
     text-align: center;
-    min-height: 100vh;
+    min-height: 20vh;
     background-attachment: fixed;
     background-size: cover;
     opacity: 0;
