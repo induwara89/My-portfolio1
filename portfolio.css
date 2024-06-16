@@ -302,10 +302,7 @@ footer {
     }
     nav ul li a {
         font-size: 1em;
-    }
-    nav {
-        position: fixed;
-    }   
+    } 
 }
 
 @media (max-width: 992px) {
